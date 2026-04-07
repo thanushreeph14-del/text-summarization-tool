@@ -1,3 +1,12 @@
+# Text summarization Tool
+"Company":CODTECH IT SOLUTIONS PRIVATE LIMITED 
+"NAME":THANUSHREE PH
+"INTERN ID":CTIS7773
+"DOMAIN":Artificial Intelligence
+"DURATION":12 Weeks
+"Mentor":NEELA SANTHOSH
+
+
 <<<<<<< HEAD
 # Text Summarization Tool
 
