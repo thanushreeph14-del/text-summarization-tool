@@ -6,6 +6,9 @@
 "DURATION":12 Weeks
 "Mentor":NEELA SANTHOSH
 
+# OUTPUT
+<img width="903" height="845" alt="Image" src="https://github.com/user-attachments/assets/478f900a-3b98-4b69-8e3f-5ce8889f056a" />
+
 
 <<<<<<< HEAD
 # Text Summarization Tool
