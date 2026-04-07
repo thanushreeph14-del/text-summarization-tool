@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Text Summarization Tool
 
 ## 📋 Project Overview
@@ -111,3 +112,6 @@ Open source project for educational and commercial use.
 
 ## 🤝 Support
 For issues or improvements, refer to the code comments and configuration options.
+=======
+# text-summarization-tool
+>>>>>>> ffcdabc0d7a4f8163cab0d64fc7c4114a116fc3c
